@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am currently developing the xng open source game engine and various small open source gui applications.
+My name is Julian Zampiccoli and i am currently developing the xng open source game engine and various small open source gui applications.
 
 Buy me a coffee:
 
