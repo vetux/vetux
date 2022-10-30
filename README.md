@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am interested in studying computer graphics and currently developing the xng open source game engine and various small gui applications.
+I am currently developing the xng open source game engine and various small open source gui applications.
 
 Buy me a beer:
 
